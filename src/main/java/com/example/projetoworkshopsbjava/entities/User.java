@@ -55,7 +55,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 			return name;
 		}
 
-		public void setNome(String name) {
+		public void setName(String name) {
 			this.name = name;
 		}
 
